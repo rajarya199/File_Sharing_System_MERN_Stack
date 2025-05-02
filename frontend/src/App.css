@@ -8,10 +8,11 @@
   height: 100vh;
   overflow: hidden;
   display: flex;
+  
 }
 
-.img {
-  width: 30%;
+img {
+  width: 33%;
 }
 
 .wrapper {
